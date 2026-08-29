@@ -33,10 +33,7 @@ glossary-translator-slm/
 │   └── glossary_translation.ipynb      <- main program
 │
 ├── output/
-│   └── translated_glossary.txt         <- generated after execution
-│
-└── screenshots/
-    └── output_screenshot.png           <- execution screenshot, for presentation use
+    └── translated_glossary.txt         <- generated after execution
 ```
 
 ## Execution Instructions
@@ -76,12 +73,6 @@ glossary-translator-slm/
 2. **Model Loading** — The NLLB SLM and its associated tokenizer are downloaded from Hugging Face (on first execution only; cached thereafter) and loaded onto the available processing unit (CPU or GPU).
 3. **Translation** — Each term and definition is processed by the model, with the target language set to Tamil (`tam_Taml`).
 4. **Output Generation** — Translated results are displayed within the notebook (to be captured for presentation purposes) and saved to `output/translated_glossary.txt`.
-
-## Switching the target language
-To translate into Malayalam instead of Tamil, open the notebook and change one line:
-```python
-TGT_LANG = "mal_Mlym"   # instead of "tam_Taml"
-```
 
 ## Notes
 - The model file itself (~2.4GB) is **not** stored in this repository — it downloads

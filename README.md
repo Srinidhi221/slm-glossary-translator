@@ -77,7 +77,15 @@ glossary-translator-slm/
 3. **Translation** — Each term and definition is processed by the model, with the target language set to Tamil (`tam_Taml`).
 4. **Output Generation** — Translated results are displayed within the notebook (to be captured for presentation purposes) and saved to `output/translated_glossary.txt`.
 
-## Additional Notes
+## Switching the target language
+To translate into Malayalam instead of Tamil, open the notebook and change one line:
+```python
+TGT_LANG = "mal_Mlym"   # instead of "tam_Taml"
+```
 
-- The model file itself (approximately 2.4GB) is not included in this repository. It is downloaded automatically via the Hugging Face `transformers` library upon execution, keeping the repository lightweight.
-- The glossary content used in this project was independently authored for the purposes of this assignment, thereby avoiding any copyright concerns associated with reproducing content from external sources.
+## Notes
+- The model file itself (~2.4GB) is **not** stored in this repository — it downloads
+  automatically via Hugging Face's `transformers` library when the notebook is run. This keeps
+  the repo lightweight.
+- The glossary PDF used here was written specifically for this project to avoid any copyright
+  concerns with reproducing content from external sources.

@@ -83,12 +83,6 @@ glossary-translator-slm/
 4. **Output** — translations are printed to the notebook (take your screenshot here) and saved to
    `output/translated_glossary.txt`.
 
-## Switching the target language
-To translate into Malayalam instead of Tamil, open the notebook and change one line:
-```python
-TGT_LANG = "mal_Mlym"   # instead of "tam_Taml"
-```
-
 ## Notes
 - The model file itself (~2.4GB) is **not** stored in this repository — it downloads
   automatically via Hugging Face's `transformers` library when the notebook is run. This keeps

@@ -1,0 +1,312 @@
+Activity status | see economic activity status.
+செயல்பாட்டு நிலைமை | பொருளாதார செயல்பாட்டு நிலையை பார்க்கவும்.
+
+Agricultural census | collection of structural data from agricultural holdings.
+விவசாய மக்கள் தொகை கணக்கெடுப்பு | விவசாய பண்ணைகளிலிருந்து கட்டமைப்பு தரவுகளை சேகரித்தல்.
+
+Agricultural holder | person making the major decisions on the operations of the holding (paragraph
+விவசாய வைத்திருப்பவர் | ஹோல்டிங் செயல்பாடுகளில் முக்கிய முடிவுகளை எடுக்கும் நபர் (பகுதி)
+
+Agricultural holding | economic unit of agricultural production – the basic unit of enumeration in the
+விவசாய ஹோல்டிங் | விவசாய உற்பத்தியின் பொருளாதார அலகு  வேளாண் உற்பத்தியின் அடிப்படை அலகு 
+
+Agricultural household | a household whose largest source of income consists of income derived from
+விவசாய குடும்பம் | ஒரு குடும்பம், அதன் வருமானத்தின் மிகப்பெரிய ஆதாரம், வருமானம் பெறப்பட்ட வருமானம் ஆகும்.
+
+Agricultural land | the total of arable land, permanent crops, and permanent meadows and pastures
+விவசாய நிலம் | மொத்த நிலப்பரப்பு, நிலையான பயிர்கள், நிலையான புல்வெளிகள் மற்றும் மேய்ச்சல்கள் ஆகியவற்றின் மொத்த அளவு
+
+Agro-forestry | farm management system involving growing trees in conjunction with crops and livestock
+விவசாய வனத்துறை | மரங்களை பயிர் மற்றும் கால்நடைகளுடன் இணைந்து வளர்க்கும் பண்ணை மேலாண்மை அமைப்பு
+
+Aquacultural census | collection of structural data from all aquacultural production units.
+மீன்வளப் பயிர் கணக்கெடுப்பு | அனைத்து மீன்வள உற்பத்தி அலகுகளிலிருந்தும் கட்டமைப்பு தரவுகளின் சேகரிப்பு.
+
+Aquacultural holding | an economic unit of aquacultural production under single management
+மீன்வள கம்பெனி  | ஒருங்கிணைந்த நிர்வாகத்தின் கீழ் நீர்வள உற்பத்தியின் ஒரு பொருளாதார அலகு
+
+Aquaculture | farming of aquatic organisms including fish, crustaceans, molluscs, and aquatic plants
+மீன்வளத்துறை | மீன், எருமை, மல்லி மற்றும் நீர்வாழ் தாவரங்கள் உள்ளிட்ட நீர்வாழ் உயிரினங்களை வளர்ப்பது
+
+Arable land | land used in most years for growing temporary crops (paragraph 11.38).
+அரபி நிலம் | பெரும்பாலான ஆண்டுகளில் தற்காலிக பயிர்களை வளர்க்க பயன்படுத்தப்படும் நிலம் (பகுதி 11.38).
+
+Associated crops | temporary crops growing together on the same piece of land with permanent crops
+தொடர்புடைய பயிர்கள் | தற்காலிக பயிர்கள் ஒரே நிலத்தில் நிரந்தர பயிர்களுடன் ஒன்றாக வளர்ந்து வருகின்றன.
+
+Census | statistical collection involving the enumeration of all units (large sample-based collections are
+மக்கள் தொகை கணக்கெடுப்பு | அனைத்து அலகுகளின் எண்ணிக்கையை உள்ளடக்கிய புள்ளிவிவரக் குவிப்பு (பெரிய மாதிரி அடிப்படையிலான குவிப்புகள்  ஆகும்)
+
+Census core module | the primary agricultural census collection to provide key structural data, carried
+மக்கள் தொகை கணக்கெடுப்பு மைய தொகுதி | முக்கிய கட்டமைப்பு தரவுகளை வழங்க, முதன்மை விவசாய மக்கள் தொகை கணக்கெடுப்பு சேகரிப்பு, நடத்தப்பட்டது
+
+Census of agriculture and aquaculture | an agricultural census and an aquacultural census conducted
+விவசாயம் மற்றும் மீன்வளத்துறையின் மக்கள் தொகை கணக்கெடுப்பு | ஒரு விவசாய மக்கள் தொகை கணக்கெடுப்பு மற்றும் ஒரு நீர்வளவியல் மக்கள் தொகை கணக்கெடுப்பு நடத்தப்பட்டது
+
+Census supplementary module | a sample-based module undertaken in association with the core
+மக்கள் தொகை கணக்கெடுப்பு கூடுதல் தொகுதி | ஒரு மாதிரி அடிப்படையிலான தொகுதி, மையத்துடன் இணைந்து மேற்கொள்ளப்படுகிறது.
+
+Classification | collection or presentation of data in classes in a structured format, such as occupation
+Classification | வகுப்புகளில் தரவுகளை சேகரித்தல் அல்லது தொகுத்தல் போன்ற கட்டமைக்கப்பட்ட வடிவத்தில் தரவுகளை தொகுத்தல் அல்லது வழங்குதல்.
+
+Co-holder | person jointly making the major decisions on the operations of the holding with another
+இணை வைத்திருப்பவர் | ஹோல்டிங் செயல்பாடுகள் தொடர்பான முக்கிய முடிவுகளை மற்றவர்களுடன் இணைந்து எடுக்கும் ஒருவர்.
+
+Compact plantation (permanent crop) | plants and trees planted in a regular or systematic manner
+சிறிய தோட்டங்கள் (நிலையான பயிர்) | முறையான அல்லது முறையான முறையில் நடவு செய்யப்படும் தாவரங்கள் மற்றும் மரங்கள்
+
+Complete enumeration | collection of data from all units, rather than from just a sample of units.
+முழுமையான பட்டியல் | ஒரு யூனிட் மாதிரி மட்டும் இல்லாத அனைத்து யூனிட்களிலிருந்தும் தரவுகளை சேகரிப்பது.
+
+Core module | see census core module.
+கோர் தொகுதி | மக்கள் தொகை கணக்கெடுப்பு மைய தொகுதி பார்க்கவும்.
+
+Current agricultural statistics | ongoing agricultural statistics on such things as production and prices,
+தற்போதைய விவசாய புள்ளிவிவரங்கள் | உற்பத்தி மற்றும் விலைகள் போன்ற விஷயங்களில் நிலையான விவசாய புள்ளிவிவரங்கள்,
+
+Double cropping | see successive crops.
+இரட்டை வெட்டுதல் | அடுத்தடுத்த பயிர்களைப் பார்க்கவும்.
+
+Drainage | removal of excess water to improve agricultural productivity (paragraphs 11.89 –11.90).
+வடிகட்டி  | விவசாய உற்பத்தித்திறனை மேம்படுத்த அதிகமான நீர் நீக்கம் (பகுதிகள் 11.89 11.90).
+
+Economic activity status | a classification describing a person as employed, unemployed or not
+பொருளாதார செயல்பாடு நிலைமை | ஒரு நபரை வேலைவாய்ப்பு, வேலையில்லா அல்லது இல்லாமலேயே ஒரு வகைப்படுத்தல் என்று விவரிக்கும் வகைப்பாடு
+
+Economically active | a person who is either employed or unemployed (paragraph 11.227).
+பொருளாதார ரீதியாக செயலில் உள்ளவர்கள் | ஒரு நபர் வேலைவாய்ப்பு அல்லது வேலையில்லாமல் இருக்கிறார் (பகுதி 11.227).
+
+Educational attainment | highest level of education achieved by a person (paragraphs 11.224–11.225).
+கல்வித் தரம்  | ஒரு நபர் அடைந்த மிக உயர்ந்த கல்வித் தரம் (பகுதிகள் 11.22411.225).
+
+Employed | a person with paid work or in self-employment (paragraph 11.235).
+வேலைவாய்ப்பு  | சம்பளமான வேலை அல்லது சுயதொழில் செய்பவர் (பகுதி 11.235).
+
+Employee | a person in paid employment (paragraph 11.242).
+ஊழியர் | ஒரு சம்பள வேலைவாய்ப்பு (பகுதி 11.242).
+
+Enumeration area (EA) | small geographic unit defined for census enumeration purposes (paragraphs
+பட்டியல் பகுதி (EA) | மக்கள் தொகை கணக்கெடுப்பு நோக்கங்களுக்காக வரையறுக்கப்பட்ட சிறிய புவியியல் அலகு (பகுதிகள்)
+
+Establishment | an economic unit operating in a single location, mainly engaged in a single productive
+நிறுவனம் | ஒரு பொருளாதார அலகு, ஒரே இடத்தில் செயல்படும், முக்கியமாக ஒரே உற்பத்தித் துறையில் ஈடுபடும்.
+
+Enterprise | an economic unit under single management consisting of one or more than one
+ Enterprise நிறுவனம் | ஒரு அல்லது அதற்கு மேற்பட்ட பொருளாதார அலகு, ஒன்றுக்கு மேற்பட்ட நிர்வாகத்தால் இயங்கும்.
+
+Fertilizers | substances that supply plants with nutrients or enhance plant growth, containing at least 5%
+உரங்கள் | தாவரங்களுக்கு ஊட்டச்சத்துக்களை வழங்கும் அல்லது தாவர வளர்ச்சியை மேம்படுத்தும் பொருட்கள், குறைந்தது 5% 
+
+Field | piece of land in a parcel separated by easily recognizable demarcation lines (paragraph 11.54).
+களப்பணி  Field | எளிதில் அடையாளம் காணக்கூடிய எல்லைகளை கொண்டு பிரிக்கப்பட்ட ஒரு பார்சலில் உள்ள நிலப்பகுதி (பகுதி 11.54).
+
+Food security | see household food security.
+உணவுப் பாதுகாப்பு | வீட்டு உணவு பாதுகாப்பு பார்க்கவும்.
+
+Forest | land with trees of height 5 metres or more with crown cover of more than 10% (paragraph 11.35).
+வனப்பகுதி. | 5 மீட்டர் உயரத்தில் அல்லது அதற்கு மேற்பட்ட மரங்கள் கொண்ட நிலம், 10% க்கும் அதிகமான கிரீடம் (பகுதி 11.35) .
+
+Frame | the basis used for identifying all the statistical units to be enumerated in a statistical collection
+Frame Frame | ஒரு புள்ளிவிவரக் குழுவில் பட்டியலிடப்பட வேண்டிய அனைத்து புள்ளிவிவர அலகுகளையும் அடையாளம் காண பயன்படுத்தப்படும் அடிப்படை.
+
+Genetically Modified Organism | organism containing genetic material obtained through the use of
+மரபணு மாற்றப்பட்ட உயிரினம் |  பயன்படுத்துவதன் மூலம் பெறப்பட்ட மரபணு பொருளைக் கொண்ட உயிரினங்கள்.
+
+Good Agricultural Practices | practices that ensure agricultural products are of high quality, safe, and
+நல்ல வேளாண் நடைமுறைகள் | விவசாயப் பொருட்கள் உயர்தர, பாதுகாப்பான மற்றும் பாதுகாப்பானவை என்பதை உறுதிப்படுத்தும் நடைமுறைகள்
+
+Gross cropped area | the total area of all temporary crops cropped, as opposed to the physical area of
+மொத்த பயிர்ப் பகுதி | மொத்த நிலப்பரப்பு என்பது அனைத்து தற்காலிக பயிர்களுக்கும் பொருந்தும், இது இயற்பியல் நிலப்பரப்பு     க்கு மாறாக பயிரிடப்படுகிறது.
+
+Holder | see agricultural holder.
+Holder | விவசாய வைத்திருப்பவர் பார்க்கவும்.
+
+Holding | see agricultural holding.
+Holding Holding Holding Holding Holding Holding Holding Holding Holding Holding Holding Holding Holding Holding Holding Holding Holding Holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding holding | விவசாய பண்ணைகள் பார்க்கவும்.
+
+Household | group of people living together, making common arrangements for food and other
+வீட்டு வங்கி  | மக்கள் ஒன்றாக வாழ்ந்து, உணவு மற்றும் பிற குழுக்களுக்கான பொதுவான ஏற்பாடுகளை மேற்கொள்வது போன்றவை.
+
+Household food security | the situation where all members of a household at all times are consuming
+வீட்டு உணவு பாதுகாப்பு | ஒரு குடும்பத்தின் அனைத்து உறுப்பினர்களும் எல்லா நேரங்களிலும் நுகர்வதைச் செய்யும் சூழ்நிலை.
+
+Industry | the activity of the establishment in which an employed person works.
+தொழில்  தொழில் | ஒரு தொழிலாளி பணிபுரியும் நிறுவனத்தின் செயல்பாடு.
+
+Integrated statistical programme | in the context of agricultural censuses, the development of the
+ஒருங்கிணைந்த புள்ளிவிவரத் திட்டம் | விவசாய மக்கள் தொகை கணக்கெடுப்புகளின் சூழலில், விவசாயப் புலனாய்வுகளின் வளர்ச்சி
+
+Inter-planted crops | one temporary crop planted between rows of another temporary crop (paragraph
+இடை-நிறுத்த பயிர்கள் | மற்றொரு தற்காலிக பயிரின் வரிசைகளுக்கு இடையில் ஒரு தற்காலிக பயிர் விதைக்கப்படுகிறது (பகுதி)
+
+Irrigation | purposely providing land with water, other than rain, for agricultural purposes (paragraphs
+பாசனம் | மழை தவிர வேறு எந்த மழையும் இல்லாமல் விவசாய நோக்கங்களுக்காக நிலத்தை வேண்டுமென்றே நீர் வழங்கும் (பகுதிகள்)
+
+Item | a particular characteristic being measured in the agricultural census.
+Item Item பொருள் | விவசாயப் புலனாய்வுகளில் அளவிடப்படும் ஒரு குறிப்பிட்ட பண்பு.
+
+ISIC | International Standard Industrial Classification of All Economic Activities (Appendixes 1, 2).
+ISIC  ISIC  | அனைத்து பொருளாதார நடவடிக்கைகளின் சர்வதேச தொழில்முறை தரவரிசை (அணுகுறிகள் 1, 2).
+
+Landless holding | agricultural holding with no land (paragraph 11.41).
+நிலமற்ற ஹோல்டிங்  | நிலம் இல்லாத விவசாய பண்ணை (பகுதி 11.41).
+
+Land tenure | arrangements under which a holder operates land on a holding (paragraphs 11.47–11.51).
+நிலம் வைத்திருத்தல் | ஒரு உரிமையாளர் ஒரு பண்ணையில் நிலத்தை இயக்கும் ஏற்பாடுகள் (பகுதிகள் 11.4711.51).
+
+Land use | classification of land according to the activity undertaken on the land (paragraphs
+நில பயன்பாடு | நிலத்தில் மேற்கொள்ளப்படும் செயல்பாடுகளின் அடிப்படையில் நிலங்களை வகைப்படுத்துதல் (பகுதிகள்)
+
+Legal status of holder | juridical aspects under which an agricultural holding is operated (paragraph
+உரிமையாளரின் சட்ட நிலை | ஒரு விவசாய பண்ணை இயங்குவதற்கான சட்ட அம்சங்கள் (பகுதி)
+
+Livestock | animals (including birds and insects) kept or reared in captivity mainly for agricultural
+கால்நடைகள்  | சிறையில் வைக்கப்பட்டுள்ள அல்லது வளர்க்கப்படும் (பறவைகள் மற்றும் பூச்சிகள் உட்பட) விலங்குகள் முக்கியமாக விவசாயத்திற்காக பயன்படுத்தப்படுகின்றன.
+
+Livestock census | enumeration of livestock holdings undertaken in some countries separately from the
+கால்நடைகளின் கணக்கெடுப்பு | சில நாடுகளில் விலங்குகள் மேய்ப்பிடம் இருந்து தனித்தனியாக மேற்கொள்ளப்படும் எண்ணிக்கை
+
+Mineral fertilizers | fertilizers manufactured from inorganic materials (paragraph 11.132).
+கனிம உரங்கள் | கரிமமமற்ற பொருட்களிலிருந்து தயாரிக்கப்படும் உரங்கள் (பகுதி 11.132).
+
+Mixed cropping | several temporary crops grown simultaneously as a mixture on the same piece of land
+கலப்பு பயிர் வெட்டுதல் | ஒரே நிலத்தில் ஒரே நேரத்தில் பல தற்காலிக பயிர்கள் சேர்த்து வளர்க்கப்படுகின்றன.
+
+Module | a separate component of the agricultural census – a modular approach is used for the
+Module  தொகுதி | விவசாய மக்கள் தொகை கணக்கெடுப்பின் ஒரு தனி கூறு  ஒரு தொகுதி அணுகுமுறை பயன்படுத்தப்படுகிறது 
+
+Multi-stage sampling | sampling scheme in which the sample is selected in stages (paragraph 10.7).
+பல கட்ட மாதிரிகள் எடுப்பது | மாதிரிகள் படிப்படியாகத் தேர்ந்தெடுக்கப்படும் மாதிரித் தேர்வு முறை (பகுதி 10.7).
+
+National accounts | summary of national income and product statistics, including Gross Domestic
+தேசிய கணக்குகள் | மொத்த உள்நாட்டு வருமானம் உள்ளிட்ட தேசிய வருமானம் மற்றும் தயாரிப்பு புள்ளிவிவரங்களின் சுருக்கம்
+
+Net cropped area | the physical area of land cropped, as opposed to the sum of the individual cropped
+நிகர பயிர் பரப்பளவு | பயிரிடப்பட்ட நிலத்தின் இயற்பியல் பரப்பளவு, தனிப்பட்ட பயிரிடப்பட்ட நிலத்தின் மொத்தத்தின் வித்தியாசமாக மாறியது.
+
+Non-sampling errors | all types of errors in statistics, other than sampling errors, including data
+மாதிரிகள் இல்லாத தவறுகள் | தரவு உள்ளிட்ட மாதிரித் தவறுகளைத் தவிர, புள்ளிவிவரங்களில் அனைத்து வகையான தவறுகளும் உள்ளன.
+
+Occupation | a classification of the type of work done by a person – not to be confused with the industry
+தொழில் | ஒரு நபர் செய்யும் வேலையின் வகைப்பாடு ஒரு வகை வகைப்பாடு தொழில்துறையுடன் குழப்பமடையக்கூடாது
+
+Organic agriculture | agricultural production system based on specific standards for achieving socially,
+கரிம வேளாண்மை | சமூக ரீதியாக சாதனை படைப்பதற்கான குறிப்பிட்ட தரங்களை அடிப்படையாகக் கொண்ட விவசாய உற்பத்தி முறை,
+
+Organic fertilizers | fertilizers prepared from processed plant and animal material (paragraph 11.134).
+கரிம உரங்கள் | செயலாக்கப்பட்ட தாவர மற்றும் விலங்கு பொருட்களிலிருந்து தயாரிக்கப்படும் உரங்கள் (பகுதி 11.134).
+
+Other wooded land | land with tree/shrub/bush cover less than that required to be classified as a forest
+Other wooded land பிற மரம் நிறைந்த நிலங்கள் | மரங்கள்/புல்ல்கள்/புல்ல்கள் உள்ள நிலங்கள் காடுகளாக வகைப்படுத்தப்பட வேண்டிய நிலங்களை விட குறைவாக உள்ளன
+
+Own-account agricultural production | a household characteristic, indicating that the household
+சொந்தமாக விவசாய உற்பத்தி செய்யப்படுவது | ஒரு குடும்பத்தின் பண்புக்கூறு, குடும்பம்  என்று குறிக்கிறது.
+
+Parcel | piece of land of one tenure type entirely surrounded by other land not operated by the holding or
+தொகுப்பு  | ஒரு நிலம் முழுமையாக சூழப்பட்ட நிலம், அது மற்ற நிலங்கள் அல்லது நிலப்பரப்பு அல்லது பகுதி மூலம் இயக்கப்படவில்லை.
+
+Permanent crops | long-term crops that do not have to be re-planted for several years (paragraph
+நிரந்தர பயிர்கள் | பல ஆண்டுகளாக மீண்டும் நடவு செய்யப்பட வேண்டியதில்லை என்று நீண்ட கால பயிர்கள் (பகுதி)
+
+Pesticide | substances intended to repel, mitigate, control or destroy diseases and pests in plants or
+பூச்சிக்கொல்லி | தாவரங்களில் உள்ள நோய்கள் மற்றும் பூச்சிகளைத் தடுக்க, குறைக்க, கட்டுப்படுத்த அல்லது அழிக்க நோய்கள் மற்றும் பூச்சிகளைத் தடுக்க அல்லது குறைக்க நோய்களைக் கட்டுப்படுத்தும் பொருட்கள்
+
+Plot | part or whole of a field on which a specific crop or crop mixture is grown (paragraph 11.54).
+கதைசொல்லல் | ஒரு குறிப்பிட்ட பயிர் அல்லது பயிர் கலவையை வளர்க்கும் வயலின் முழு அல்லது ஒரு பகுதி (பகுதி 11.54).
+
+Population census | the collection of demographic and socio-economic data for all persons in a country,
+மக்கள் தொகை கணக்கெடுப்பு | ஒரு நாட்டில் உள்ள அனைத்து நபர்களுக்கும் மக்கள்தொகை மற்றும் சமூக-பொருளாதார தரவுகளை சேகரித்தல்,
+
+Programme of agricultural surveys | in the context of the agricultural census, agricultural surveys
+விவசாய ஆய்வுகளின் திட்டம் | விவசாய மக்கள் தொகை கணக்கெடுப்பு, விவசாய ஆய்வுகள் ஆகியவற்றின் அடிப்படையில், விவசாய கணக்கெடுப்பு ஆகியவை மேற்கொள்ளப்படுகின்றன.
+
+Random sampling | sampling method used for sample surveys, in which each unit within the scope of
+சீரற்ற மாதிரிகள் எடுப்பது | மாதிரி ஆய்வுகளுக்குப் பயன்படுத்தப்படும் மாதிரித் தேர்வு முறை, இதில் ஒவ்வொரு அலகுக்கும்    ன் எல்லைக்குள் உள்ள ஒருங்கிணைப்பு உள்ளது.
+
+Reference period | the time period to which a given data item collected in a census or survey refers – for
+குறிப்பு காலம் | ஒரு மக்கள் தொகை கணக்கெடுப்பு அல்லது கணக்கெடுப்பில் சேகரிக்கப்பட்ட ஒரு குறிப்பிட்ட தரவுத் தொகுப்பு      க்கு குறிக்கும் காலக்கெடு.
+
+Rural household | household living in an area designated as a rural area, often determined from the
+கிராமப்புற குடும்பம் | கிராமப்புறமாகக் குறிப்பிடப்பட்ட பகுதியில் வசிக்கும் குடும்பம், பெரும்பாலும் கிராமப்புறங்களில் இருந்து தீர்மானிக்கப்படுகிறது.
+
+Sample survey | the collection of data from a sample of units, rather than all units as in a census.
+மாதிரி ஆய்வு | மக்கள் தொகை கணக்கெடுப்பில் உள்ளதைப் போல அனைத்து அலகுகளிலும் அல்ல, ஒரு யூனிட் மாதிரி தரவுகளின் சேகரிப்பு.
+
+Sampling errors | the errors in statistics obtained from a sample survey because data are collected from
+மாதிரிகள் எடுக்கும் தவறுகள் | ஒரு மாதிரி கணக்கெடுப்பிலிருந்து பெறப்பட்ட புள்ளிவிவரங்களில் உள்ள தவறுகள், ஏனெனில் தரவு   இலிருந்து சேகரிக்கப்படுகிறது.
+
+Sampling frame | the means by which all in-scope units are identified for a sample survey (Chapter 10).
+மாதிரிகள் எடுக்கும் சட்டம் | ஒரு மாதிரி ஆய்வுக்காக அனைத்து எல்லை அலகுகளும் அடையாளம் காணப்படும் வழிமுறைகள் (அத்தியாயம் 10).
+
+Scattered plants (permanent crops) | plants and trees scattered around a holding and so preventing
+சிதறிய தாவரங்கள் ( நிரந்தர பயிர்கள்) | ஒரு பண்ணைக்குச் சுற்றி சிதறிக்கொண்டிருந்த தாவரங்கள் மற்றும் மரங்கள், இதனால் தாவரங்களைத் தடுக்கும்.
+
+Scope | the geographical area or types of units covered by a statistical collection (paragraphs 3.6–3.15).
+Scope  Scope  Scope  Scope  Scope  Scope  Scope   Scope  Scope  Scope  Scope  Scope  Scope  Scope   Scope   Scope   Scope   Scope    Scope   Scope    Scope    Scope     Scope                             | புவியியல் பகுதி அல்லது ஒரு புள்ளிவிவரக் குழுவின் வகைகள் (பகுதிகள் 3.63.15).
+
+Sector | the institutional category (such as household, corporation, cooperative, government) to which
+துறை | நிறுவன வகை (அதாவது குடும்பம், நிறுவனம், கூட்டுறவு, அரசு) இதில் 
+
+Shifting cultivation | cultivation whereby land is cultivated for some years before being abandoned
+வேளாண்மை மாற்றம் | நிலம் சில ஆண்டுகள் பயிரிடப்படும் நிலம் கைவிடப்படும் முன் பயிரிடப்படும் நிலம்.
+
+Single-stage sampling | sampling scheme in which the sample is selected directly from a list of units
+ஒற்றை கட்ட மாதிரிகள்  | மாதிரிகள் பிரிவுகளின் பட்டியலில் இருந்து நேரடியாக தேர்வு செய்யப்படும் மாதிரிகள் பிரிவு முறை
+
+SNA | see System of National Accounts.
+SNA | தேசிய கணக்குகள் அமைப்பைப் பார்க்கவும்.
+
+Soil degradation | decline in soil quality caused by natural processes or improper use by humans
+மண் சீர்குலைவு | இயற்கை செயல்முறைகளால் அல்லது மனிதர்களால் முறையற்ற பயன்பாட்டால் ஏற்படும் மண் தரத்தில் ஏற்படும் சரிவு
+
+Statistical unit | the unit for which data are collected in a census or survey – the agricultural holding is the
+புள்ளிவிவர அலகு | மக்கள் தொகை கணக்கெடுப்பு அல்லது கணக்கெடுப்பில் தரவு சேகரிக்கப்படும் அலகு விவசாய பண்ணை என்பது கணக்கெடுப்பு அல்லது கணக்கெடுப்பு ஆகும்.
+
+Status in employment | the classification of a job held by a person according to whether it is as an
+வேலைவாய்ப்பில் நிலைமை | ஒரு நபரின் பதவிக்கு ஒரு வகைப்பாடு என்பது ஒரு நபராக இருக்கிறதா இல்லையா என்பதைப் பொறுத்து.
+
+Stunting | refers to the situation where the height of a child is too low for his/her age (paragraph 11.290).
+ஸ்டாண்டிங் | குழந்தைகளின் உயரம் அவரது வயதுக்கு மிகக் குறைவாக இருக்கும் சூழ்நிலையை குறிக்கிறது (பக்கம் 11.290).
+
+Structural data | data on the basic organizational structure of agricultural holdings that do not change
+கட்டமைப்பு தரவு | விவசாய பண்ணைகளின் அடிப்படை அமைப்பு அமைப்பு குறித்த தரவுகளில் மாற்றம் இல்லை.
+
+Sub-holder | a person to whom the holder delegates the authority to sub-manage a sub-holding
+துணை வைத்திருப்பவர் | ஒரு துணை நிறுவனத்தை துணை நிர்வகிக்கும் அதிகாரத்தை வைத்திருப்பவர் கடன் வழங்கும் நபரைப் போலவே.
+
+Sub-holding | a part of a holding managed by a particular person in the household (paragraphs 3.44).
+துணை-உரிமை  | ஒரு குடும்பத்தில் ஒரு குறிப்பிட்ட நபரால் நிர்வகிக்கப்படும் ஒரு பண்ணையின் ஒரு பகுதி (பகுதிகள் 3.44).
+
+Successive crops | two or more temporary crops grown successively on the same piece of land at
+தொடர்ச்சியான பயிர்கள் | ஒரே நிலத்தில் இரண்டு அல்லது அதற்கு மேற்பட்ட தற்காலிக பயிர்கள் அடுத்தடுத்து வளர்க்கப்படுகின்றன.
+
+Supplementary module | see census supplementary module.
+கூடுதல் தொகுதி  | மக்கள் தொகை கணக்கெடுப்பு கூடுதல் தொகுதி. see
+
+Survey | see sample survey.
+கணக்கெடுப்பு  Survey Survey | மாதிரி ஆய்வு பார்க்கவும்.
+
+System of National Accounts (SNA) | an international national accounting framework for reporting
+தேசிய கணக்குகள் அமைப்பு (SNA) | அறிக்கைகளை வழங்குவதற்கான சர்வதேச தேசிய கணக்கியல் கட்டமைப்பை உருவாக்குதல்
+
+Table | the primary output of a statistical collection, involving the summarizing of results in tabular form.
+மேசை  மேசை | ஒரு புள்ளிவிவரக் குவியலின் முதன்மை வெளியீடு, இதன் விளைவாக முடிவுகளை அட்டவணை வடிவத்தில் சுருக்கமாகக் கூறுவது.
+
+Tabulation programme | programme of the output tables to be produced from a statistical collection
+Tabulation திட்டம் | ஒரு புள்ளிவிவர சேகரிப்பு திட்டத்திலிருந்து தயாரிக்கப்பட வேண்டிய வெளியீட்டு அட்டவணைகளின் வெளியீட்டு அட்டவணைகளின் 
+
+Temporary crops | crops with a less than one-year growing cycle (paragraphs 11.27–11.28).
+தற்காலிக பயிர்கள் | ஒரு வருடத்திற்கும் குறைவான வளரும் சுழற்சியுடன் பயிர்கள் (பகுதிகள் 11.2711.28).
+
+Theme | the broad subject heading describing the content of a census supplementary module or an
+கருப்பொருள்  | மக்கள் தொகை கணக்கெடுப்பு துணை தொகுதி அல்லது ஒரு  இன் உள்ளடக்கத்தை விவரிக்கும் பரந்த தலைப்பு.
+
+Underweight | refers to the situation where a child’s weight is too low for his/her age (paragraph 11.290).
+குறைந்த எடை கொண்டவர். | குழந்தைகளின் எடை வயதுக்கு மிகக் குறைவாக இருக்கும் சூழ்நிலையை குறிக்கிறது (பக்கம் 11.290).
+
+Unemployment | a situation where a person of working age is: (i) without work, (ii) available for work, and
+வேலையின்மை | ஒரு தொழில்முறை வயதில் உள்ள ஒருவர் பின்வருவனவற்றில் ஒருவராக இருக்கும் நிலைமைஃ (i) வேலை இல்லாமல், (ii) வேலைக்குத் தயாராக இருப்பது, மற்றும்
+
+Wasting | refers to the situation where a child’s weight is too low for his/her height (paragraph 11.290).
+வீணாகிறது. | குழந்தைகளின் எடை உயரத்திற்கு மிகக் குறைவாக இருக்கும் சூழ்நிலையை குறிக்கிறது (பக்கம் 11.290).
+
